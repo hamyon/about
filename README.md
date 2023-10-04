@@ -1,0 +1,2 @@
+# about
+Bu organization haqida
